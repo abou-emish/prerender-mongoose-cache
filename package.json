@@ -1,0 +1,29 @@
+{
+  "name": "prerender-mongoose-cache",
+  "version": "0.0.1",
+  "description": "Prerender plugin for MongoDB caching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/abou-emish/prerender-mongoose-cache.git"
+  },
+  "keywords": [
+    "prerender",
+    "mongodb",
+    "mongoose",
+    "cache"
+  ],
+  "author": "Mohamed Abou-Emish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abou-emish/prerender-mongoose-cache/issues"
+  },
+  "homepage": "https://github.com/abou-emish/prerender-mongoose-cache",
+  "dependencies": {
+    "cache-manager": "0.2.0",
+    "mongoose": "^4.9.6"
+  }
+}
